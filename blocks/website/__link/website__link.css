@@ -1,0 +1,9 @@
+.website__link {
+  color: #FFFFFF;
+  padding: 0;
+  margin: 0;
+}
+
+.website__link:hover {
+  opacity: 0.8;
+}

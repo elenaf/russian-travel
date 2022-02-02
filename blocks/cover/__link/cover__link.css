@@ -1,0 +1,22 @@
+.cover__link {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  justify-items: center;
+  width: 100%;
+  text-decoration: none;
+  color: #FFFFFF;
+  padding: 0;
+  margin: 0 auto;
+  z-index: 1;
+}
+
+.cover__link:active {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.cover__link:visited {
+  text-decoration: none;
+  color: #FFFFFF;
+}
