@@ -1,4 +1,5 @@
 .place__website {
+  grid-area: website;
   text-align: left;
   margin: 0 16px 32px;
   padding: 0;
