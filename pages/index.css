@@ -7,10 +7,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__languages/header__languages.css);
 @import url(../blocks/header/__language/header__language.css);
-@import url(../blocks/header/__language/header__language_active.css);
-@import url(../blocks/languages/languages.css);
-@import url(../blocks/language/language.css);
-@import url(../blocks/language/language_active.css);
+@import url(../blocks/header/__language/_active/header__language_active.css);
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__first-part/content__first-part.css);
